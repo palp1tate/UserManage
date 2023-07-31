@@ -1,6 +1,6 @@
 # UserManage——用户管理系统
 
-本用户管理系统来源于武沛齐老师的b站网课：<https://www.bilibili.com/video/BV1NL41157ph?p=1&vd_source=84fc27804252448ba51ef3b6abfd5d36>
+本用户管理系统来源于武沛齐老师的b站网课：<https://www.bilibili.com/video/BV1NL41157ph?p=1&vd_source=84fc27804252448ba51ef3b6abfd5d36>，视频里的学习文档和源码见上。
 
 ## 克隆使用：
 ```bash
