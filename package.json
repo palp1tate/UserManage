@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "echarts": "^5.4.1",
+    "highcharts": "^10.3.3"
+  }
+}
