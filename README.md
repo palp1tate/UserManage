@@ -6,7 +6,7 @@
 
 ## 克隆使用：
 ```bash
-git clone https://github.com/uestc-wxy/UserManage.git
+git clone https://github.com/palp1tate/UserManage.git
 ```
 
 ## 下载依赖
@@ -52,13 +52,13 @@ python manage.py runserver
 
 然后访问：<http://127.0.0.1:8000/>，自动跳入登录界面。分别输入`admin`和`123`，验证码根据实际情况填写。
 
-![image](https://github.com/uestc-wxy/UserManage/assets/120303802/7458af6e-e0e4-410a-a904-d893b9eda5f9)
+![image](https://github.com/palp1tate/UserManage/assets/120303802/7458af6e-e0e4-410a-a904-d893b9eda5f9)
 
-![image](https://github.com/uestc-wxy/UserManage/assets/120303802/361e5e96-942b-4e9a-b56b-2810a13e5fd9)
+![image](https://github.com/palp1tate/UserManage/assets/120303802/361e5e96-942b-4e9a-b56b-2810a13e5fd9)
 
-![image](https://github.com/uestc-wxy/UserManage/assets/120303802/99ac77ef-ace1-4d08-b1d6-c492d7767108)
+![image](https://github.com/palp1tate/UserManage/assets/120303802/99ac77ef-ace1-4d08-b1d6-c492d7767108)
 
-![image](https://github.com/uestc-wxy/UserManage/assets/120303802/88834b2b-e286-4121-8cb9-810c1a15926d)
+![image](https://github.com/palp1tate/UserManage/assets/120303802/88834b2b-e286-4121-8cb9-810c1a15926d)
 
 
 
